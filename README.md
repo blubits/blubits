@@ -1,8 +1,8 @@
 * 👋 Hi, I’m Maded, a developer and data scientist aspiring for social change ✊🚩
-* 🪧 I'm currently the campaigns and training officer for Agham Youth, a national organizatioof student scientists for the people.
-  * ▶️ Hit us up on [Facebook](https://facebook.com/aynational), [Twitter](https://twitter.com/aghamyouth_natl), and [Instagram](https://instagram.com/aghamyouth)!
-  * ▶️ Interested in collaborating? [Email us](mailto:aynational@agham.org)!
+* 🪧 I'm currently at the [Computer Professionals' Union](https://cp-union.com), a national organization of ICT professionals advancing technology serve the people.
+  * ▶️ Hit us up on [Facebook](https://facebook.com/cpunion), [Twitter](https://twitter.com/cpu_ph), and [Instagram](https://instagram.com/cpu_ph)!
+  * ▶️ Interested in collaborating? [Email us](mailto:secretariat@cp-union.com)!
 * 👀 Looking for projects that directly benefit the most vulnerable communities.
-* 🔬 Currently into transportation, climate change, and agriculture-related projects!
+* 🔬 Currently into data science and AI research! Particularly looking for leads in transportation, climate change, and social movements.
 
 
